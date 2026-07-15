@@ -1,8 +1,8 @@
 # Capstone Project — Credit Risk Analysis
 
 Analisis, preprocessing, dan pemodelan risiko kredit menggunakan **German
-Credit Data**. Proyek ini diorganisir mengikuti struktur repository capstone
-data mining standar.
+Credit Data**. Project ini diorganisir mengikuti struktur repository capstone
+data mining.
 
 ## 🔑 5 Insight Utama dari EDA
 1. **Data imbalance.** Kelas target tidak seimbang: 69.7% nasabah *good*
@@ -18,7 +18,6 @@ data mining standar.
    sendiri punya bad-rate paling rendah.
 
 Detail lengkap ada di `notebooks/01_eda.ipynb`.
-
 ## 📁 Struktur Repository
 
 ```
@@ -55,11 +54,10 @@ capstone-project-data-mining/
 
 1. **Setup environment**
    ```bash
-   pip install -r requirements.txt
+   pip install -r requirements.txt (library)
    ```
 
 2. **Siapkan data** — letakkan `german_credit_data_updated.csv` di `data/raw/`.
-
 3. **Jalankan notebooks secara berurutan** (dari folder `notebooks/`):
    - `01_eda.ipynb` — eksplorasi & data quality check.
    - `02_modeling.ipynb` — feature engineering, training, tuning, evaluasi
@@ -80,18 +78,6 @@ capstone-project-data-mining/
    ```bash
    streamlit run app/app.py
    ```
-
-## 📝 Catatan
-
-- `data/raw/`, `data/processed/`, dan `models/*.pkl` tidak disertakan di git
-  (lihat `.gitignore`) karena berukuran besar / mudah dibuat ulang dari
-  notebook & script. Jalankan `02_modeling.ipynb` atau `train_model.py`
-  sekali untuk membuatnya.
-- `reports/final_report.pdf` dan `reports/presentation.pptx` adalah
-  deliverable akhir capstone (ringkasan naratif + slide) — belum dibuat
-  otomatis di sini karena isinya berupa narasi/ringkasan hasil, bukan
-  artefak kode. Bisa disusun berdasarkan insight di `01_eda.ipynb` dan hasil
-  evaluasi di `02_modeling.ipynb` / `03_interpretation.ipynb`.
 
 ## 🧠 Ringkasan Metodologi
 
