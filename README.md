@@ -1,7 +1,5 @@
 # Capstone Project — Credit Risk Analysis
-
-Analisis, preprocessing, dan pemodelan risiko kredit menggunakan **German
-Credit Data**. Project ini diorganisir mengikuti struktur repository capstone
+Credit Risk Analysis (Analisis Risiko Kredit) adalah proses yang dilakukan untuk menilai dan mengukur kemungkinan seorang nasabah atau peminjam gagal memenuhi kewajiban finansialnya (gagal bayar). Dalam proyek ini, analisis dilakukan menggunakan pendekatan Data Science dan Machine Learning untuk mengklasifikasikan nasabah ke dalam kategori Good Risk (lancar) atau Bad Risk (macet) berdasarkan karakteristik dan riwayat finansial mereka. Analisis, preprocessing, dan pemodelan risiko kredit menggunakan **German Credit Data**. Project ini diorganisir mengikuti struktur repository capstone
 data mining.
 
 ## 🔑 5 Insight Utama dari EDA
