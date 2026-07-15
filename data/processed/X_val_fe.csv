@@ -1,0 +1,144 @@
+Age,Sex,Job,Housing,Saving accounts,Checking account,Credit amount,Duration,Purpose,Credit_per_Month,Age_Group,Job_Skill
+21,male,1,rent,little,little,1987,24,radio/TV,82.79166666666667,Young(<=25),unskilled_resident
+23,female,2,own,moderate,,3488,24,car,145.33333333333334,Young(<=25),skilled
+24,female,2,rent,little,little,2124,18,furniture/equipment,118.0,Young(<=25),skilled
+61,female,2,own,,,2012,12,education,167.66666666666666,Senior(60+),skilled
+41,female,1,rent,,,1244,9,education,138.22222222222223,Middle(41-60),unskilled_resident
+29,male,3,rent,moderate,,1901,24,radio/TV,79.20833333333333,Adult(26-40),highly_skilled
+25,male,2,own,little,,1262,12,radio/TV,105.16666666666667,Young(<=25),skilled
+28,male,1,rent,little,moderate,6260,18,car,347.77777777777777,Adult(26-40),unskilled_resident
+20,female,2,rent,little,little,1282,12,furniture/equipment,106.83333333333333,Young(<=25),skilled
+54,male,2,own,,,2255,24,car,93.95833333333333,Middle(41-60),skilled
+60,male,1,own,little,little,1199,24,car,49.958333333333336,Middle(41-60),unskilled_resident
+61,male,1,own,little,,1255,12,car,104.58333333333333,Senior(60+),unskilled_resident
+68,male,2,rent,,,6761,18,car,375.6111111111111,Senior(60+),skilled
+57,female,1,own,moderate,,1154,11,radio/TV,104.9090909090909,Middle(41-60),unskilled_resident
+42,male,3,own,moderate,moderate,8086,36,car,224.61111111111111,Middle(41-60),highly_skilled
+28,female,2,own,little,moderate,4221,30,business,140.7,Adult(26-40),skilled
+63,male,2,own,,,7596,30,car,253.2,Senior(60+),skilled
+28,male,2,own,little,little,4169,24,furniture/equipment,173.70833333333334,Adult(26-40),skilled
+36,male,2,own,quite rich,,4042,42,furniture/equipment,96.23809523809524,Adult(26-40),skilled
+24,female,2,rent,,little,1275,15,domestic appliances,85.0,Young(<=25),skilled
+27,male,3,own,little,,6314,24,vacation/others,263.0833333333333,Adult(26-40),highly_skilled
+23,female,2,rent,little,little,2511,15,car,167.4,Young(<=25),skilled
+37,male,2,free,,,2279,12,radio/TV,189.91666666666666,Adult(26-40),skilled
+42,female,2,own,,moderate,5084,24,radio/TV,211.83333333333334,Middle(41-60),skilled
+28,male,2,own,little,moderate,3060,48,radio/TV,63.75,Adult(26-40),skilled
+33,male,2,rent,little,little,2235,20,car,111.75,Adult(26-40),skilled
+28,male,1,own,little,,2993,21,car,142.52380952380952,Adult(26-40),unskilled_resident
+27,female,2,own,moderate,,1237,6,radio/TV,206.16666666666666,Adult(26-40),skilled
+28,male,2,own,little,,3595,36,radio/TV,99.86111111111111,Adult(26-40),skilled
+26,male,1,own,little,moderate,625,12,radio/TV,52.083333333333336,Adult(26-40),unskilled_resident
+42,male,2,own,little,little,4153,18,furniture/equipment,230.72222222222223,Middle(41-60),skilled
+31,male,2,own,,little,6350,30,furniture/equipment,211.66666666666666,Adult(26-40),skilled
+31,male,2,rent,little,little,2302,36,radio/TV,63.94444444444444,Adult(26-40),skilled
+58,female,1,own,little,little,1755,24,vacation/others,73.125,Middle(41-60),unskilled_resident
+23,female,1,own,little,little,976,18,car,54.22222222222222,Young(<=25),unskilled_resident
+58,male,2,own,,,1867,30,radio/TV,62.233333333333334,Middle(41-60),skilled
+35,male,3,own,little,moderate,1050,6,furniture/equipment,175.0,Adult(26-40),highly_skilled
+25,female,3,own,little,little,8065,36,education,224.02777777777777,Young(<=25),highly_skilled
+37,male,2,own,little,rich,1225,10,domestic appliances,122.5,Adult(26-40),skilled
+24,male,2,own,little,little,9629,36,car,267.47222222222223,Young(<=25),skilled
+27,male,1,own,little,,802,14,car,57.285714285714285,Adult(26-40),unskilled_resident
+35,female,2,own,,little,1381,24,car,57.541666666666664,Adult(26-40),skilled
+33,female,2,own,little,little,1131,18,furniture/equipment,62.833333333333336,Adult(26-40),skilled
+27,male,1,own,little,,2708,15,furniture/equipment,180.53333333333333,Adult(26-40),unskilled_resident
+36,male,3,own,little,,3275,21,car,155.95238095238096,Adult(26-40),highly_skilled
+51,male,2,free,little,rich,2892,24,furniture/equipment,120.5,Middle(41-60),skilled
+28,male,2,rent,little,little,6199,12,radio/TV,516.5833333333334,Adult(26-40),skilled
+35,male,2,own,little,moderate,2576,7,radio/TV,368.0,Adult(26-40),skilled
+28,male,2,rent,little,moderate,3617,12,furniture/equipment,301.4166666666667,Adult(26-40),skilled
+23,female,0,rent,quite rich,little,1352,6,car,225.33333333333334,Young(<=25),unskilled_nonresident
+35,female,2,own,little,,1291,12,radio/TV,107.58333333333333,Adult(26-40),skilled
+34,male,3,own,moderate,,1591,21,furniture/equipment,75.76190476190476,Adult(26-40),highly_skilled
+24,female,2,own,little,,2788,15,furniture/equipment,185.86666666666667,Young(<=25),skilled
+30,male,3,own,little,moderate,4455,36,business,123.75,Adult(26-40),highly_skilled
+25,male,2,own,little,rich,5152,24,radio/TV,214.66666666666666,Young(<=25),skilled
+36,male,3,own,,,1238,6,education,206.33333333333334,Adult(26-40),highly_skilled
+36,male,2,own,rich,rich,1275,24,business,53.125,Adult(26-40),skilled
+49,male,1,own,,rich,1445,18,radio/TV,80.27777777777777,Middle(41-60),unskilled_resident
+75,male,3,free,little,little,6615,24,car,275.625,Senior(60+),highly_skilled
+36,male,2,own,,,6742,30,radio/TV,224.73333333333332,Adult(26-40),skilled
+24,female,1,rent,,,4811,30,car,160.36666666666667,Young(<=25),unskilled_resident
+63,male,3,free,,,13756,60,car,229.26666666666668,Senior(60+),highly_skilled
+38,male,2,own,,moderate,754,12,education,62.833333333333336,Adult(26-40),skilled
+35,male,2,own,,moderate,2728,15,radio/TV,181.86666666666667,Adult(26-40),skilled
+20,male,2,rent,little,moderate,585,12,radio/TV,48.75,Young(<=25),skilled
+37,female,2,own,little,moderate,3612,18,furniture/equipment,200.66666666666666,Adult(26-40),skilled
+24,female,2,rent,little,little,652,12,furniture/equipment,54.333333333333336,Young(<=25),skilled
+26,female,1,own,little,moderate,1113,18,radio/TV,61.833333333333336,Adult(26-40),unskilled_resident
+48,female,1,rent,little,moderate,1795,18,radio/TV,99.72222222222223,Middle(41-60),unskilled_resident
+53,male,2,free,little,little,7119,48,furniture/equipment,148.3125,Middle(41-60),skilled
+63,male,2,own,,,1520,15,furniture/equipment,101.33333333333333,Senior(60+),skilled
+32,male,2,own,moderate,little,2325,24,car,96.875,Adult(26-40),skilled
+29,female,2,own,little,rich,683,6,radio/TV,113.83333333333333,Adult(26-40),skilled
+20,male,2,own,moderate,little,674,12,radio/TV,56.166666666666664,Young(<=25),skilled
+44,male,2,rent,quite rich,little,2647,6,radio/TV,441.1666666666667,Middle(41-60),skilled
+44,male,2,own,little,little,1553,18,furniture/equipment,86.27777777777777,Middle(41-60),skilled
+32,male,2,own,moderate,,2848,10,car,284.8,Adult(26-40),skilled
+49,male,2,free,,little,2964,24,car,123.5,Middle(41-60),skilled
+33,male,2,own,little,,2058,24,repairs,85.75,Adult(26-40),skilled
+36,male,2,own,,,3079,36,car,85.52777777777777,Adult(26-40),skilled
+28,male,2,own,little,little,1108,12,repairs,92.33333333333333,Adult(26-40),skilled
+45,male,2,own,little,little,2303,24,car,95.95833333333333,Middle(41-60),skilled
+26,female,2,own,little,,3181,24,radio/TV,132.54166666666666,Adult(26-40),skilled
+30,female,2,own,little,,8133,36,car,225.91666666666666,Adult(26-40),skilled
+25,male,2,own,,moderate,1484,12,radio/TV,123.66666666666667,Young(<=25),skilled
+40,male,2,own,,,3077,30,radio/TV,102.56666666666666,Adult(26-40),skilled
+36,male,2,own,rich,moderate,1913,18,business,106.27777777777777,Adult(26-40),skilled
+29,female,3,own,little,,1412,12,business,117.66666666666667,Adult(26-40),highly_skilled
+25,male,1,own,little,moderate,4746,45,radio/TV,105.46666666666667,Young(<=25),unskilled_resident
+50,male,2,own,little,,2241,21,furniture/equipment,106.71428571428571,Middle(41-60),skilled
+30,male,2,rent,little,moderate,2002,12,car,166.83333333333334,Adult(26-40),skilled
+25,male,1,own,little,little,1138,9,radio/TV,126.44444444444444,Young(<=25),unskilled_resident
+26,male,2,own,moderate,,1311,24,radio/TV,54.625,Adult(26-40),skilled
+64,female,2,own,little,,1364,10,car,136.4,Senior(60+),skilled
+32,male,2,rent,moderate,moderate,11760,39,education,301.53846153846155,Adult(26-40),skilled
+37,female,2,rent,quite rich,,1402,12,furniture/equipment,116.83333333333333,Adult(26-40),skilled
+25,male,1,rent,little,,2210,10,furniture/equipment,221.0,Young(<=25),unskilled_resident
+42,male,2,own,little,little,3446,36,furniture/equipment,95.72222222222223,Middle(41-60),skilled
+41,male,2,own,,,3160,21,radio/TV,150.47619047619048,Middle(41-60),skilled
+47,male,2,own,,,3578,48,radio/TV,74.54166666666667,Middle(41-60),skilled
+56,male,2,free,little,rich,4796,42,car,114.19047619047619,Middle(41-60),skilled
+38,male,1,own,little,little,2171,12,car,180.91666666666666,Adult(26-40),unskilled_resident
+74,male,1,own,little,,3448,5,business,689.6,Senior(60+),unskilled_resident
+27,female,1,own,little,little,3643,15,furniture/equipment,242.86666666666667,Adult(26-40),unskilled_resident
+28,female,2,rent,quite rich,moderate,4113,24,car,171.375,Adult(26-40),skilled
+35,female,2,free,quite rich,,5324,15,car,354.93333333333334,Adult(26-40),skilled
+37,male,3,own,,moderate,4712,24,business,196.33333333333334,Adult(26-40),highly_skilled
+26,male,2,own,little,rich,1330,12,car,110.83333333333333,Adult(26-40),skilled
+20,female,2,rent,,,4675,12,car,389.5833333333333,Young(<=25),skilled
+34,female,2,own,little,little,1842,36,car,51.166666666666664,Adult(26-40),skilled
+47,male,2,free,little,,1984,18,furniture/equipment,110.22222222222223,Middle(41-60),skilled
+45,male,3,own,little,,6761,6,car,1126.8333333333333,Middle(41-60),highly_skilled
+26,female,1,rent,little,little,3599,21,furniture/equipment,171.38095238095238,Adult(26-40),unskilled_resident
+23,male,1,own,little,moderate,1246,24,car,51.916666666666664,Young(<=25),unskilled_resident
+26,female,2,own,little,,763,12,furniture/equipment,63.583333333333336,Adult(26-40),skilled
+29,female,3,own,little,,2679,24,car,111.625,Adult(26-40),highly_skilled
+55,male,2,own,little,little,6872,24,furniture/equipment,286.3333333333333,Middle(41-60),skilled
+39,male,1,own,,,9436,54,car,174.74074074074073,Adult(26-40),unskilled_resident
+51,male,2,free,,little,7511,18,car,417.27777777777777,Middle(41-60),skilled
+50,female,1,own,little,rich,1047,6,education,174.5,Middle(41-60),unskilled_resident
+66,male,0,free,quite rich,rich,1480,12,car,123.33333333333333,Senior(60+),unskilled_nonresident
+54,male,2,own,,,717,24,car,29.875,Middle(41-60),skilled
+25,female,2,rent,little,moderate,1295,12,car,107.91666666666667,Young(<=25),skilled
+26,female,2,own,little,,2404,18,radio/TV,133.55555555555554,Adult(26-40),skilled
+40,male,1,own,,little,1647,21,car,78.42857142857143,Adult(26-40),unskilled_resident
+47,male,2,free,little,,5103,24,radio/TV,212.625,Middle(41-60),skilled
+37,male,2,own,,,10222,48,radio/TV,212.95833333333334,Adult(26-40),skilled
+27,female,2,own,little,little,2389,18,radio/TV,132.72222222222223,Adult(26-40),skilled
+23,male,1,rent,quite rich,,660,6,repairs,110.0,Young(<=25),unskilled_resident
+58,female,1,free,little,little,6143,48,car,127.97916666666667,Middle(41-60),unskilled_resident
+36,male,2,own,moderate,,2872,24,radio/TV,119.66666666666667,Adult(26-40),skilled
+23,female,2,rent,,little,1200,12,education,100.0,Young(<=25),skilled
+26,female,2,own,quite rich,,1386,12,car,115.5,Adult(26-40),skilled
+21,female,2,rent,little,,2570,27,car,95.18518518518519,Young(<=25),skilled
+26,male,2,own,little,little,4370,42,radio/TV,104.04761904761905,Adult(26-40),skilled
+29,male,3,own,little,moderate,11328,24,vacation/others,472.0,Adult(26-40),highly_skilled
+27,male,2,own,little,moderate,2820,36,car,78.33333333333333,Adult(26-40),skilled
+22,female,2,own,little,moderate,1670,9,radio/TV,185.55555555555554,Young(<=25),skilled
+43,male,2,rent,little,little,4843,12,car,403.5833333333333,Middle(41-60),skilled
+24,male,2,own,little,,1800,18,radio/TV,100.0,Young(<=25),skilled
+28,female,2,own,little,little,3660,24,radio/TV,152.5,Adult(26-40),skilled
+39,male,2,own,quite rich,,2299,36,radio/TV,63.861111111111114,Adult(26-40),skilled
+22,female,1,rent,little,,1258,12,furniture/equipment,104.83333333333333,Young(<=25),unskilled_resident
